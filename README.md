@@ -1,6 +1,10 @@
 # AspectjDemo
 AspectJ的使用实践~
 
+# Blog介绍
+
+初识AspectJ：<http://xyzlf.cn/2017/09/20/android-aop-aspectj.html>
+
 # 关于我
 有任何使用问题，可以给我发邮件：
 

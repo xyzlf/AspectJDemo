@@ -38,7 +38,7 @@ public class TestAspect {
 
     @Before(value = "codeInMain() && handleException()")
     public void catchException(JoinPoint joinPoint){
-        Log.d(TAG,"this is a try catch block. " + joinPoint.toString());
+        Log.d(TAG,"this is a try catch block. ");
     }
 
 }

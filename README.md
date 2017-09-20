@@ -5,6 +5,8 @@ AspectJ的使用实践~
 
 初识AspectJ：<http://xyzlf.cn/2017/09/20/android-aop-aspectj.html>
 
+AspectJ的配置插件封装资料：https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
+
 # 关于我
 有任何使用问题，可以给我发邮件：
 
